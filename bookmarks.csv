@@ -1,0 +1,30 @@
+# Tag name          ;  color
+Untagged            ; #c0c0c0
+PTT                 ; #c0c0c0
+ATC                 ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+   121175300; Lugano ATC               ; AM                  ;       9600; ATC
+   123024900; ATC1_2                   ; AM                  ;      13800; Untagged
+   124170600; ATC2                     ; AM                  ;      13800; ATC
+   124222900; ATC1                     ; AM                  ;      13800; ATC
+   126049300; ATC3                     ; AM                  ;      13800; ATC
+   133174200; Locarno Information Yankee; AM                  ;      13800; ATC
+   133444200; Locarno Information Yankee; AM                  ;      13800; ATC
+   134835600; Lugano Arrival ?         ; AM                  ;       5000; ATC
+   135243000; Lugano Information       ; AM                  ;       5000; ATC
+   158067000; Pompieri?                ; Narrow FM           ;      30000; PTT
+   158317100; Pompieri                 ; Narrow FM           ;      30000; PTT
+   158692100; Pompieri                 ; Narrow FM           ;      30000; Untagged
+   158814800; SECURO - Ambulanza       ; Narrow FM           ;      30000; Untagged
+   159193400; Ambulanza                ; Narrow FM           ;      30000; PTT
+   161816000; Comm                     ; Narrow FM           ;       7400; PTT
+   162191600; Comm3                    ; Narrow FM           ;       7400; PTT
+   162615300; Comm2                    ; Narrow FM           ;       7400; PTT
+   163794400; Ambulanza?               ; Narrow FM           ;       7400; PTT
+   433152800; TETRA?                   ; Narrow FM           ;      10000; Untagged
+   444991400; Radio Comm               ; Narrow FM           ;      10000; PTT
+   445978600; Comm                     ; Narrow FM           ;       5600; PTT
+   445979100; Comm                     ; Narrow FM           ;      10000; PTT
+   445990700; Comm                     ; Narrow FM           ;      10000; PTT
+   446065900; Comm                     ; Narrow FM           ;      10000; PTT
